@@ -9,8 +9,8 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](iso.jpg)
-![Example](iso2.jpg)
-![Example](20190905-DSC03987.jpg)
-![Example](20190905-DSC03989.jpg)
+<img src="iso.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="20190905-DSC03987.jpg" width="500" align="center"> 
+<img src="20190905-DSC03989.jpg" width="500" align="center"> 
 
